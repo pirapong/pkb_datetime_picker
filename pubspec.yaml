@@ -1,11 +1,14 @@
 name: pkb_datetime_picker
-description: A new Flutter package project.
-version: 1.1.0
-homepage:
+description: A date time picker for flutter, you can choose date / time / date&time in English Dutch and Chinese, and you can also customize your own picker content
+version: 1.0.0
+homepage: https://github.com/pirapong/pkb_datetime_picker.git
 
+#environment:
+#  sdk: '>=3.1.0 <4.0.0'
+#  flutter: ">=1.17.0"
 environment:
-  sdk: '>=3.1.0 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
 
 dependencies:
   flutter:
